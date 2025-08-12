@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Surya Prabhat Saurabh
-- 👀 I’m interested in Coding and Developing Software.
-- 🌱 I’m currently learning how to use AI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 MERN Stack learner from DUCAT.
+- 🌱 Currently pursuing BCA (IGNOU)
 - 📫 Text me on My insta @infinite.surya
 
 <!---
